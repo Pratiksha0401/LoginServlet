@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 	     urlPatterns = {"/LoginServlet"},
 	     initParams = {
 			     @WebInitParam(name="user", value="Pratiksha"),
-			     @WebInitParam(name ="password", value="Bridge")
+			     @WebInitParam(name ="password", value="Bridge@123")
 	      }
 	)
 
